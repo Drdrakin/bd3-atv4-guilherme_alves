@@ -6,5 +6,5 @@ Esse repositório contém a atividade de Banco de Dados III que simula o modo de
 
 | Pasta  | Descrição |
 | ------------- | ------------- |
-| Criar Database  | Criar database e collection  |
-| Operações  | Conteúdo  |
+| Criar Database  | Cria database e collection  |
+| Operações  | Conteúdo da atividade  |
